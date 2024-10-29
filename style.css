@@ -21,6 +21,37 @@ header {
     padding: 8px;
   }
 
-.imagem1 {
-    margin: 0 auto;
+  .imagem1 {
+    width: 30%;
+    padding-left: 33%;
 }
+
+.imagem2 {
+    width: 30%;
+    padding-left: 33%;
+}
+
+.imagem3 {
+    width: 30%;
+    padding-left: 33%;
+}
+
+.imagem4 {
+    width: 55%;
+    padding-left: 21%;
+}
+
+.imagem5 {
+    width: 30%;
+    padding-left: 33%;
+}
+
+.imagem6 {
+    width: 30%;
+    padding-left: 33%;
+}
+
+@media screen and (min-width: 1024px) {
+    .intro{
+    display: flex;
+} }
