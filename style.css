@@ -1,7 +1,9 @@
 body{
     background-color: dodgerblue;
 }
-
+h1 {
+    padding: 16px;
+}
 header {
     background-color: lightsalmon;
     text-align: center;
