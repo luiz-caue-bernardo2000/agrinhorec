@@ -2,12 +2,12 @@ body{
     background-color: dodgerblue;
 }
 h1 {
-    padding: 14px;
+    padding: 12px;
 }
 header {
     background-color: lightsalmon;
     text-align: center;
-    font-size: 38px;
+    font-size: 32px;
     padding: 8px;
   }
   p { 
