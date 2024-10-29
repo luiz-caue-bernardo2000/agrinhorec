@@ -22,7 +22,7 @@ header {
   }
 
 .imagem1 {
-    align-self: center;
+    justify-content: center;
 }
 .imagem2{
     align-items: center;
