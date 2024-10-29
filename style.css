@@ -5,8 +5,9 @@ body{
 header {
     background-color: lightsalmon;
     text-align: center;
-    text-size-adjust: 120%;
+    text-size-adjust: 120;
   }
+  p { font-size: 16px; }
 .introdução {
 
 }
