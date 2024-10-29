@@ -4,6 +4,9 @@ body{
 h1 {
     padding: 12px;
 }
+h2 {
+    font-size: 20px;
+}
 header {
     background-color: lightsalmon;
     text-align: center;
