@@ -20,7 +20,9 @@ header {
     font-size: 32px;
     padding: 8px;
   }
-
+.introdução {
+    justify-content: center;
+}
 .imagem1 {
     justify-content: center;
 }
