@@ -1,21 +1,26 @@
 body{
     background-color: dodgerblue;
 }
+
 h1 {
     padding: 12px;
 }
+
 h2 {
     font-size: 32px;
 }
+
+p{
+    font-size: 26px;
+}
+
 header {
     background-color: lightsalmon;
     text-align: center;
     font-size: 32px;
     padding: 8px;
   }
-  p { 
-    font-size: 28px;
- }
+
 .introdução {
 
 }
