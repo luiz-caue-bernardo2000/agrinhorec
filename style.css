@@ -51,6 +51,11 @@ header {
     padding-left: 33%;
 }
 
+.imagem7 {
+    width: 30%;
+    padding-left: 33%;
+}
+
 @media screen and (min-width: 1024px) {
     .intro{
     display: flex;
