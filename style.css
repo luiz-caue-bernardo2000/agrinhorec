@@ -7,7 +7,9 @@ header {
     text-align: center;
     text-size-adjust: 120;
   }
-  p { font-size: 16px; }
+  p { 
+    font-size: 16px;
+ }
 .introdução {
 
 }
