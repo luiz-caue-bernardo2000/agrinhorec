@@ -1,5 +1,14 @@
+body{
+    background-color: dodgerblue;
+}
+h1 {
+    width: 20px;
+}
 header {
     background-color: lightsalmon;
     padding: 8px;
     text-align: center;
   }
+.introdução {
+width: 15px
+}
