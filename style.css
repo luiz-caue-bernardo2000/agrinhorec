@@ -56,7 +56,7 @@ header {
     padding-left: 33%;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (max-width: 1080px) {
     .imagem1 {
         width: 50%;
         padding-left: 40%;
