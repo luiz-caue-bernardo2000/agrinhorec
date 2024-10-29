@@ -22,5 +22,6 @@ header {
   }
 
 .imagem1 {
+    width: 35%;
     justify-content: center;
 }
