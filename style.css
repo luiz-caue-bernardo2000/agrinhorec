@@ -21,7 +21,6 @@ header {
     padding: 8px;
   }
 
-.imagem1 {
-    width: 35%;
-    margin: 0 auto;
+.intro img {
+margin: 0 auto;
 }
