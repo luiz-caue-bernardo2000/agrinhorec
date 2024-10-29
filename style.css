@@ -24,4 +24,5 @@ header {
 .imagem1 {
     width: 35%;
     flex-direction: column;
+    align-items: center;
 }
