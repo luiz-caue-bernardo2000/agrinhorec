@@ -25,4 +25,5 @@ header {
     width: 35%;
     flex-direction: column;
     align-items: center;
+    align-content: center;
 }
